@@ -3,7 +3,7 @@
 # Date: 1/9/25
 
 
-x = int(input("Pick a Number from 1-9"))
+x = 5
 result = ((x * 2) + 5) * 50 + 1749 + 25 
 y = result - 2003
 print (y)
